@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+          "type": "go",
+          "name": "main",
+          "goExecPath": "./cmd/main.go",
+          "buildTargets": [],
+        },
+
+    ]
+}
