@@ -1,0 +1,2 @@
+# stc
+simple torrent client
